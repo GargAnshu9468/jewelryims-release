@@ -1,5 +1,5 @@
 {
-  "version": "v1.1",
-  "download_url": "https://github.com/GargAnshu9468/jewelryims-release/releases/download/v1.1/JewelryIMS_v1.1.exe",
+  "version": "v1.0",
+  "download_url": "https://github.com/GargAnshu9468/jewelryims-release/releases/download/v1.0/JewelryIMS_v1.0.exe",
   "changelog": "JewelryIMS v1.0 — Initial Release 🎉\n\nFeatures:\n\n- Complete Jewelry Inventory Management System\n- Manage accounts, dashboard, stock, suppliers, customers, purchases, sales, and giravees\n- Create, edit, delete, and view features for stock, suppliers, customers, purchase bills, sale bills, and giravees\n- Print bill option for purchases, and sales\n- Search functionality to get details about stocks, suppliers, customers, purchases, sales, and giravees\n- Daily automatic backup (keeps last backup only)\n- Runs fully offline on Windows (no server cost)\n\nThis is the first stable version for local use."
 }
